@@ -1,0 +1,6 @@
+{
+	"appId": "com.uinmalang.ilha.mahasiswaplan",
+	"appName": "Plan Mahasiswa Ilha",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
