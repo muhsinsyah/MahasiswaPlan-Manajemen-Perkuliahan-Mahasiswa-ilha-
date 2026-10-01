@@ -1,0 +1,6 @@
+{
+  "name": "MahasiswaPlan - Manajemen Perkuliahan Pribadi",
+  "description": "Aplikasi manajemen jadwal perkuliahan pribadi, tracker presentasi, catatan materi, evaluasi performa akademik, dan pengingat kelas otomatis berpalet khas kampus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
